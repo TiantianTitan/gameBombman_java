@@ -1,0 +1,1 @@
+This is a small game of Bombermen written in java
